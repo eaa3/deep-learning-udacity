@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+*.pyc
+notebooks/allhashes
+.DS_Store
+saveus.py
